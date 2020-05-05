@@ -7,6 +7,9 @@ Felipe Gómez es profesor de Laboratorio de Métodos Computacionales y este repo
 * Villeta
 * Villita
 
+# Colaborador
+René Alejandro Abello, estudiante de Laboratorio de Métodos Computacionales
+
 Esto está escrito en MARKDOWN
 =============================
 
