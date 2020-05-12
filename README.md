@@ -6,6 +6,8 @@ Felipe Gómez es profesor de Laboratorio de Métodos Computacionales y este repo
 * Viñeta
 * Villeta
 * Villita
+# Sobre el colaborador
+Camilo Ruiz, estudiante de Laboratorio de Métodos Computacionales
 
 # Colaborador
 René Alejandro Abello, estudiante de Laboratorio de Métodos Computacionales
